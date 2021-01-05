@@ -1,0 +1,8 @@
+name: MyFirstPlugin
+main: com.github.ExcMeng.MyFirstPlugin
+version: 0.0.1-SNAPSHOT
+
+commands:
+  test:
+    description: test
+    usage: /<command>
